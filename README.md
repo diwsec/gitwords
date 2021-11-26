@@ -8,7 +8,6 @@
 
 ## tools
 
-> trufflehog https://github.com/trufflesecurity/truffleHog.git
+> trufflehog https://github.com/trufflesecurity/truffleHog.git > Scan git repos (or files) for secrets using regex and entropy
 
-> gitleaks https://github.com/zricethezav/gitleaks.git
-
+> gitleaks https://github.com/zricethezav/gitleaks.git > Searches through git repositories for high entropy strings and secrets, digging deep into commit history
